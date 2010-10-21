@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/13/trunk/src/main/java/threshsig
+END
+Poly.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/trunk/src/main/java/threshsig/Poly.java
+END
+SafePrimeGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/13/trunk/src/main/java/threshsig/SafePrimeGen.java
+END
+GroupKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13/trunk/src/main/java/threshsig/GroupKey.java
+END
+SigShare.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13/trunk/src/main/java/threshsig/SigShare.java
+END
+ThreshUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13/trunk/src/main/java/threshsig/ThreshUtil.java
+END
+KeyShare.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13/trunk/src/main/java/threshsig/KeyShare.java
+END
+Verifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/13/trunk/src/main/java/threshsig/Verifier.java
+END
+Dealer.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/trunk/src/main/java/threshsig/Dealer.java
+END
+ThresholdSigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/src/main/java/threshsig/ThresholdSigException.java
+END
