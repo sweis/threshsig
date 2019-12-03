@@ -158,7 +158,7 @@ public class Dealer {
     BigInteger rand;
     int randbits;
 
-    poly = new Poly(d, k - 1, m);
+    poly = new Poly(d, k, m);
     secrets = new BigInteger[l];
     randbits = n.bitLength() + ThreshUtil.L1 - m.bitLength();
 
