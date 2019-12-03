@@ -8,3 +8,5 @@ undergraduate summer project for [Oceanstore](http://oceanstore.cs.berkeley.edu/
 **Warning**: This code is not maintained, does not use modern coding practices, and has no security claims. 
 
 It is only posted as a reference.
+
+A prototype implementation in Python from 2019 is here: https://github.com/oreparaz/shoup
